@@ -1,0 +1,126 @@
+<.................Saludos...................>
+Hola
+Buenos días
+Buenas tardes
+Buenas noches
+Qué onda
+¿Como estas?
+
+
+
+<.................Calidad_del_aire...................>
+¿Cual es la calidad del aire?
+Dame la calidad del aire
+¿Que tal el aire?
+¿Hace aire?
+¿Como va estar la calidad del aire mañana?
+¿Puedo salir al aire libre?
+¿Me hace daño salir al aire?
+¿El clima es bueno para ejercitarme al aire libre?
+¿Es buena la calidad del aire?
+¿Es mala la calidad del aire?
+¿Puedo realizar actividades al aire libre?
+¿Qué tan malo esta el aire?
+calidad del aire ahora
+Pronostico del aire
+
+
+
+<.................Clima...................>
+¿Que tal el clima?
+¿Mañana va a ser calor o Frio?
+Dame la temperatura
+¿A cuantos grados estamos?
+¿En donde esta lloviendo?
+¿Hace calor o frio?
+¿Cual es la temperatura ambiente?
+
+
+
+
+<.................IMECAS...................>
+Dame la cantidad de imecas
+¿Puedo circular por los puntos de imecas?
+¿Cuantos puntos de imecas hay?
+Respecto a los imecas, ¿puedo salir al aire libre?
+
+<---------------FRASES---------------------->
+Disculpa
+Oye
+¿Puedo salir a la calle?
+
+
+
+<---------------Calidad_del_aire_localización------------->
+
+Calidad del aire en Álvaro Obregón
+calidad del aire en alvaro obregon
+Que tal la calidad del aire en Álvaro Obregón?
+que tal el aire en la alvaro obregon
+Que tal el aire en la alvaro obregon
+¿que tal el aire en la alvaro obregon?
+¿Que tal el aire en la alvaro obregon?
+Como esta el aire en la Álvaro Obregón
+como esta el aire en la Álvaro Obregón
+Como esta el aire en la alvaro obregon
+va a llover en Álvaro Obregón?
+hace frio en Álvaro Obregon?
+Va a llover en alvaro obregón?
+Hace frio en alvaro obregon?
+Pronostico del clima Álvaro Obregón
+Hace calor en la Álvaro Obregón?
+hace calor en alvaro obregon?
+
+Calidad del aire en Azcapotzalco
+calidad del aire en azcapotzalco
+Que tal la calidad del aire en Azcapotzalco?
+que tal el aire en azcapotzalco
+Que tal el aire en azcapotzalco
+¿que tal el aire en azcapotzalco?
+¿Que tal el aire en azcapotzalco?
+Como esta el aire en Azcapotzalco
+como esta el aire en Azcapotzalco
+Como esta el aire en azcapotzalco
+va a llover en Azcapotzalco?
+hace frio en Azcapotzalco?
+Va a llover en azcapotzalco?
+Hace frio en azcapotzalco?
+Pronostico del clima Azcapotzalco
+Hace calor en Azcapotzalco?
+hace calor en azcapotzalco?
+
+Calidad del aire en Benito Juárez
+calidad del aire en benito juarez
+Que tal la calidad del aire en Benito Juárez?
+que tal el aire en la benito juarez
+Que tal el aire en la benito juarez
+¿que tal el aire en la benito juarez?
+¿Que tal el aire en la benito juarez?
+Como esta el aire en la Benito Juárez
+como esta el aire en la Benito Juárez
+Como esta el aire en la benito juarez
+va a llover en Benito Juárez?
+hace frio en Benito Juarez?
+Va a llover en benito juarez?
+Hace frio en benito juarez?
+Pronostico del clima Benito Juárez
+Hace calor en la Benito Juárez?
+hace calor en benito juarez?
+
+Calidad del aire en Coyoacán
+calidad del aire en coyoacan
+Que tal la calidad del aire en Coyoacán?
+que tal el aire en coyoacan
+Que tal el aire en coyoacan
+¿que tal el aire en coyoacan?
+¿Que tal el aire en coyoacan?
+Como esta el aire en Coyoacán
+como esta el aire en Coyoacan
+Como esta el aire en coyoacan
+va a llover en Coyoacán?
+hace frio en Coyoacán?
+Va a llover en coyoacan?
+Hace frio en coyoacan?
+Pronostico del clima Coyoacán
+Hace calor en Coyoacán?
+hace calor en coyoacan?
