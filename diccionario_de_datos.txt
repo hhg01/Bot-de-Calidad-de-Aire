@@ -5,36 +5,24 @@ Buenas tardes
 Buenas noches
 Qué onda
 ¿Como estas?
+Que tal
 
 
 
-<.................Calidad_del_aire...................>
-¿Cual es la calidad del aire?
-Dame la calidad del aire
-¿Que tal el aire?
-¿Hace aire?
-¿Como va estar la calidad del aire mañana?
-¿Puedo salir al aire libre?
-¿Me hace daño salir al aire?
-¿El clima es bueno para ejercitarme al aire libre?
-¿Es buena la calidad del aire?
-¿Es mala la calidad del aire?
-¿Puedo realizar actividades al aire libre?
-¿Qué tan malo esta el aire?
-calidad del aire ahora
-Pronostico del aire
+<...................Identidad........................>
+A que te dedicas
+Como te llamas
+Y a que te dedicas?
+¿que haces?
 
 
 
-<.................Clima...................>
-¿Que tal el clima?
-¿Mañana va a ser calor o Frio?
-Dame la temperatura
-¿A cuantos grados estamos?
-¿En donde esta lloviendo?
-¿Hace calor o frio?
-¿Cual es la temperatura ambiente?
-
+<....................No_entiendo........................>
+Cdf
+Hdkd
+Hsjsba
+Que me ves
+puedes ayudarme con mi tarea?
 
 
 
@@ -43,15 +31,105 @@ Dame la cantidad de imecas
 ¿Puedo circular por los puntos de imecas?
 ¿Cuantos puntos de imecas hay?
 Respecto a los imecas, ¿puedo salir al aire libre?
-
-<---------------FRASES---------------------->
-Disculpa
-Oye
-¿Puedo salir a la calle?
+Respecto a los imecas, ¿puedo salir a andar en bici?
 
 
 
-<---------------Calidad_del_aire_localización------------->
+<.................Calidad_del_aire...................>
+¿Cual es la calidad del aire?
+Dame la calidad del aire
+¿Que tal el aire?
+¿Hace aire?
+Circula mi auto si hay contingencia?
+¿Puedo salir al aire libre?
+¿Me hace daño salir al aire?
+Como esta el clima en tlapan
+Cual es la calidad del aire
+¿El clima es bueno para ejercitarme al aire libre?
+¿Es buena la calidad del aire?
+¿Es mala la calidad del aire?
+¿Puedo realizar actividades al aire libre?
+¿Qué tan malo esta el aire?
+calidad del aire ahora
+Cuanto CO hay en el aire
+Es malo si sacó a mi bebé debido a la calidad del aire?
+Hola me puedes decir la calidad del clima en la ciudad
+Hola, que tal esta la calidad del aire
+Me puedes dar la calidad del aire
+Mi abuelito puede salir a caminar debido a la calidad  del aire?
+Me puedes decir la calidad del aire
+Mi abuelito puede salir al aire libre?
+Puedo ejercitarme al aire libre?
+Puedo salir a ejercitarme al aire libre?
+Puedo salir a jugar debido a la contaminación?
+es recomendable usar proteccion solar?
+la calidad del aire es buena para salir en bici
+saldre a correr o me recomiendas otra actividad?
+Buenas noches que tal esta la calidad del aire
+
+Calidad del aire en Iztapalapa
+calidad del aire en iztapalapa
+Que tal la calidad del aire en Iztapalapa?
+que tal el aire en la iztapalapa
+Que tal el aire en la iztapalapa
+¿que tal el aire en la iztapalapa?
+¿Que tal el aire en la iztapalapa?
+Como esta el aire en la Iztapalapa
+como esta el aire en la Iztapalapa
+Como esta el aire en la iztapalapa
+va a llover en Iztapalapa?
+Hace frio en iztapalapa?
+Pronostico del clima Iztapalapa
+Hace calor en la Iztapalapa?
+hace calor en iztapalapa?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en la delegacion iztapalapa
+Quisiera saber la calidad del aire en iztapalapa
+Y cual es la calidad del aire exactamente en iztapalapa
+Es recomendable  hacer ejercicio al aire libre en la delegación Iztapalapa?
+
+Calidad del aire en cdmx
+calidad del aire en cdmx
+Que tal la calidad del aire en cdmx?
+que tal el aire en CDMX
+Que tal el aire en CDMX
+¿que tal el aire en CDMX?
+¿Que tal el aire en CDMX?
+Como esta el aire en cdmx
+como esta el aire en cdmx
+Como esta el aire en cdmx
+va a llover en cdmx?
+hace frio en cdmx?
+Va a llover en cdmx?
+Hace frio en cdmx?
+Pronostico del clima cdmx
+Hace calor en cdmx?
+hace calor en cdmx?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en la cdmx
+Quisiera saber la calidad del aire en la cdmx
+Y cual es la calidad del aire exactamente en la cdmx
+Es recomendable  hacer ejercicio al aire libre en la CDMX?
+
+Calidad del aire en la ciudad de Mexico
+calidad del aire en la ciudad de Mexico
+Que tal la calidad del aire en la ciudad de Mexico?
+que tal el aire en la ciudad de Mexico
+Que tal el aire en la ciudad de Mexico
+¿que tal el aire en la ciudad de Mexico?
+¿Que tal el aire en la ciudad de Mexico?
+Como esta el aire en la ciudad de Mexico
+como esta el aire en la ciudad de Mexico
+Como esta el aire en la ciudad de Mexico
+va a llover en la ciudad de Mexico?
+hace frio en la ciudad de Mexico?
+Va a llover en la ciudad de Mexico?
+Hace frio en la ciudad de Mexico?
+Pronostico del clima ciudad de Mexico
+Hace calor en la ciudad de Mexico?
+hace calor en la ciudad de Mexico?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en la cuidad de Mexico
+Quisiera saber la calidad del aire en la ciudad de Mexico
+Y cual es la calidad del aire exactamente en la cuidad de mexico
+Es recomendable  hacer ejercicio al aire libre en la cuidad de mexico?
 
 Calidad del aire en Álvaro Obregón
 calidad del aire en alvaro obregon
@@ -70,6 +148,10 @@ Hace frio en alvaro obregon?
 Pronostico del clima Álvaro Obregón
 Hace calor en la Álvaro Obregón?
 hace calor en alvaro obregon?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en la delegacion alvaro obregon
+Quisiera saber la calidad del aire en Alvaro obregon
+Y cual es la calidad del aire exactamente en la alvaro obregon
+Es recomendable  hacer ejercicio al aire libre en la delegación Alvaro Obregón?
 
 Calidad del aire en Azcapotzalco
 calidad del aire en azcapotzalco
@@ -88,6 +170,10 @@ Hace frio en azcapotzalco?
 Pronostico del clima Azcapotzalco
 Hace calor en Azcapotzalco?
 hace calor en azcapotzalco?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en Azcapotzalco
+Quisiera saber la calidad del aire en azcapotzalco
+Y cual es la calidad del aire exactamente en azcapotzalco
+Es recomendable  hacer ejercicio al aire libre en la delegación Azcapotzalco?
 
 Calidad del aire en Benito Juárez
 calidad del aire en benito juarez
@@ -106,6 +192,10 @@ Hace frio en benito juarez?
 Pronostico del clima Benito Juárez
 Hace calor en la Benito Juárez?
 hace calor en benito juarez?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en la delegacion benito juarez
+Quisiera saber la calidad del aire en la delegacion benito juarez
+Y cual es la calidad del aire exactamente en la delegacion Benito Juarez
+Es recomendable  hacer ejercicio al aire libre en la delegación benito juarez?
 
 Calidad del aire en Coyoacán
 calidad del aire en coyoacan
@@ -124,3 +214,51 @@ Hace frio en coyoacan?
 Pronostico del clima Coyoacán
 Hace calor en Coyoacán?
 hace calor en coyoacan?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en coyoacan
+Quisiera saber la calidad del aire en coyoacan
+Y cual es la calidad del aire exactamente en Coyoacan
+Es recomendable  hacer ejercicio al aire libre en la delegación coyoacan?
+
+Calidad del aire en Iztacalco
+calidad del aire en iztacalco
+Que tal la calidad del aire en Iztacalco?
+que tal el aire en iztacalco
+Que tal el aire en iztacalco
+¿que tal el aire en iztacalco?
+¿Que tal el aire en iztacalco?
+Como esta el aire en Iztacalco
+como esta el aire en iztacalco
+Como esta el aire en iztacalco
+va a llover en Iztacalco?
+hace frio en Iztacalco?
+Va a llover en iztacalco?
+Hace frio en iztacalco?
+Pronostico del clima Iztacalco
+Hace calor en Iztacalco?
+hace calor en iztacalco?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en iztacalco
+Quisiera saber la calidad del aire en iztacalco
+Y cual es la calidad del aire exactamente en Iztacalco
+Es recomendable  hacer ejercicio al aire libre en la delegación iztacalco?
+
+Calidad del aire en xochimilco
+calidad del aire en xochimilco
+Que tal la calidad del aire en xochimilco?
+que tal el aire en xochimilco
+Que tal el aire en xochimilco
+¿que tal el aire en xochimilco?
+¿Que tal el aire en xochimilco?
+Como esta el aire en xochimilco
+como esta el aire en xochimilco
+Como esta el aire en xochimilco
+va a llover en xochimilco?
+hace frio en xochimilco?
+Va a llover en xochimilco?
+Hace frio en xochimilco?
+Pronostico del clima xochimilco
+Hace calor en xochimilco?
+hace calor en xochimilco?
+Debido a la calidad del aire, puedo ejercitarme al aire libre en xochimilco
+Quisiera saber la calidad del aire en xochimilco
+Y cual es la calidad del aire exactamente en xochimilco
+Es recomendable  hacer ejercicio al aire libre en la delegación xochimilco?
