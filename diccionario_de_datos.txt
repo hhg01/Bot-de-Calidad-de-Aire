@@ -1,4 +1,4 @@
-<.................Saludos...................>
+<.........................Saludos.........................>
 Hola
 Buenos días
 Buenas tardes
@@ -6,18 +6,20 @@ Buenas noches
 Qué onda
 ¿Como estas?
 Que tal
+buen dia
 
 
 
-<...................Identidad........................>
+<.........................Identidad.........................>
 A que te dedicas
 Como te llamas
 Y a que te dedicas?
 ¿que haces?
+¿quien eres?
 
 
 
-<....................No_entiendo........................>
+<.........................No_entiendo.........................>
 Cdf
 Hdkd
 Hsjsba
@@ -26,7 +28,7 @@ puedes ayudarme con mi tarea?
 
 
 
-<.................IMECAS...................>
+<.........................IMECAS.........................>
 Dame la cantidad de imecas
 ¿Puedo circular por los puntos de imecas?
 ¿Cuantos puntos de imecas hay?
@@ -35,7 +37,7 @@ Respecto a los imecas, ¿puedo salir a andar en bici?
 
 
 
-<.................Calidad_del_aire...................>
+<.........................Calidad_del_aire.........................>
 ¿Cual es la calidad del aire?
 Dame la calidad del aire
 ¿Que tal el aire?

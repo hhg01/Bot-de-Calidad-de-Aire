@@ -18,7 +18,7 @@ class Bot extends CI_Controller
         parent::__construct();
 
         //token de acceso pagina de facebook
-        $this->token_facebook = 'EAACJE1W6IkoBAC57pd7wQrdTSR3nG88eoMpAI85bphGNbtcqm5aFg2GkghD7jZBcTjXQZAxc7Ran6coRKeSx4RmDaw6BeEwXqv6cgZADEH9ZBYf8O3opNQ8QCLd2sz7sZCpGnqMvUvovqZBDw9KYi6IOZC76wtU1hecxdKkWubNGgZDZD';
+        $this->token_facebook = 'EAACx9QdRbA4BAKw8LdhY9GfuYEOTNKAsAUVbRGJr51GVHQXvxeCdew1HNcTbUJPAUkVMQhRmc7Eg7LizoSV7OnU5t7yWJhQFtN639srvHdgUpZCqicr12hb3UUfy27XnjqsFZAxMJDnrpdLS1xb4ZCj7aXFDxawfE1FnoCEAdd9mjkrakB1';//'EAACJE1W6IkoBAC57pd7wQrdTSR3nG88eoMpAI85bphGNbtcqm5aFg2GkghD7jZBcTjXQZAxc7Ran6coRKeSx4RmDaw6BeEwXqv6cgZADEH9ZBYf8O3opNQ8QCLd2sz7sZCpGnqMvUvovqZBDw9KYi6IOZC76wtU1hecxdKkWubNGgZDZD';
         //token de acceso privado
         $this->token_acceso = 'smartcdmx';
         //url API_Facebook
